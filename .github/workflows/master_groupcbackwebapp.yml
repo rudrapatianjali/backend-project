@@ -56,4 +56,4 @@ jobs:
           app-name: 'groupCbackwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B57E66F488824E2F80AF6DD300E0FA8D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B76D8E97186B4043B8AB6BB6412B0E8D }}
